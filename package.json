@@ -1,0 +1,23 @@
+{
+  "name": "midnight-purple-dark-theme",
+  "displayName": "Midnight Purple Dark Theme",
+  "publisher": "bxstars-code",
+  "description": "Purple dark theme for Visual Studio Code",
+  "version": "0.0.2",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Purple Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Purple Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
