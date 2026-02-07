@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.1] - 2026-02-07
+### Changed
+- Updated extension icon
+  
+---
+
 ## [1.0.0] - 2026-02-06
 ### Added
 - Stable release of Midnight Purple Dark Theme
