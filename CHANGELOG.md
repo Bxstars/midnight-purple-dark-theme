@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.2] - 2026-02-15
+### Added
+- New customizations for text selection, indentation and other enhancements.
+
+---
+
 ## [1.0.1] - 2026-02-07
 ### Changed
 - Updated extension icon

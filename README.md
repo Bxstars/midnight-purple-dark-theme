@@ -16,7 +16,7 @@ A deep and elegant purple dark theme for Visual Studio Code, designed for long c
 1. Open VS Code
 2. Go to Extensions
 3. Search for **Midnight Purple Dark Theme** or **bxstars-code**
-4. Install and enjoy 💜
+4. Install and enjoy 🚀
 
 ## Activation
 - Open Command Palette (`Ctrl + Shift + P`)
@@ -24,4 +24,4 @@ A deep and elegant purple dark theme for Visual Studio Code, designed for long c
 - Choose **Midnight Purple Dark Theme**
 
 ## Publisher
-- **bxstars** - [Linkedin](https://www.linkedin.com/in/barbaraxavier-dev)
+-  Created by **[@bxstars](https://github.com/Bxstars)** 💜 
