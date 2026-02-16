@@ -7,7 +7,7 @@
 		"titleBar.inactiveBackground": "#191A28",
 		"titleBar.inactiveForeground": "#9CA3AF",
 
-        "breadcrumb.foreground": "#bfccf1",
+        "breadcrumb.foreground": "#ccbff1",
         "focusBorder": "#5d5a8d",
 
 		// Tabs
@@ -17,7 +17,7 @@
 		"tab.inactiveBackground": "#191A28",
 		"tab.inactiveForeground": "#dedede",
 
-		//Navbar Superior - Menu seleção
+		// Navbar Superior - Menu seleção
 		"list.activeSelectionBackground": "#3B2A5D",
 		"list.activeSelectionForeground": "#FFFFFF",
 		"list.hoverBackground": "#342858",
@@ -31,7 +31,7 @@
         "activityBar.foreground": "#a5b4fc",
   		"activityBar.activeBorder": "#6366f1",
 
-		//Contador de notificações
+		// Contador de notificações
 		"activityBarBadge.background": "#5e51af",
 		"activityBarBadge.foreground": "#ffffff",
 		
@@ -40,7 +40,7 @@
   		"statusBar.foreground": "#ffffff",
   		"statusBar.border": "#2e1065",
 
-		//Titulo da janela lateral selecionada
+		// Titulo da janela lateral selecionada
 		"sideBarTitle.foreground": "#b0adfb",
 
 		// Fundo do Painel da janela lateral selecionada
@@ -48,11 +48,12 @@
 		"sideBar.border": "#5d5a8d",
 		"sideBar.foreground": "#fafafa",
 
-		//Botão Commit
+		// Botão Commit
 		"button.background": "#6c66de",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#8d8fef",
 
+        // Terminal
 		"terminal.background": "#212030",
 		"terminal.foreground": "#C9D1D9",
 		"terminalCursor.foreground": "#8f6dff",
@@ -73,6 +74,30 @@
         "menu.separatorBackground": "#67648d",
 
         "progressBar.background": "#b656ff",
+
+        // Pagina de boas vindas
+        "welcomePage.tileBackground": "#383849",
+        "welcomePage.tileHoverBackground": "#2A2A3D",
+        "textLink.foreground": "#7C7CFF",
+        "textLink.activeForeground": "#b8b7ff",
+        "badge.background": "#7B5CFF",
+        "badge.foreground": "#FFFFFF",
+
+        // Seleção de texto
+        "editor.lineHighlightBackground": "#38295c",
+        "editor.lineHighlightBorder": "#534f92",
+
+        "editor.selectionBackground": "#38295c",
+        "editor.selectionHighlightBackground": "#7f47d933",
+        "editorCursor.foreground": "#ffffff",
+
+        // Números de linhas
+        "editorLineNumber.foreground": "#5d5a8d",
+        "editorLineNumber.activeForeground": "#FFFFFF",
+
+        // Guias de indentação
+        "editorIndentGuide.background1": "#2E2545",
+        "editorIndentGuide.activeBackground1": "#5d5a8d",
 	},
 	
 	 "tokenColors": [
