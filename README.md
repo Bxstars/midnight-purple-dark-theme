@@ -1,5 +1,7 @@
 # Midnight Purple — Dark Theme 🌌💜
 
+![Preview](https://github.com/Bxstars/midnight-purple-dark-theme/blob/master/_banner_midnight_purple.png)
+
 A deep and elegant purple dark theme for Visual Studio Code, designed for long coding sessions with reduced eye strain.
 
 ## Features
@@ -31,7 +33,9 @@ This extension includes multiple Midnight Purple variations:
 ## Activation
 - Open Command Palette (`Ctrl + Shift + P`)
 - Select **Preferences: Color Theme**
-- Choose **Midnight Purple Dark or Midnight Purple Deep**
+- Choose
+   - **Midnight Purple Dark**
+   - **Midnight Purple Deep**
 
 ## Publisher
 -  Created by **[@bxstars](https://github.com/Bxstars)** 💜 
