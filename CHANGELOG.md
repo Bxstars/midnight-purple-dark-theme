@@ -7,6 +7,18 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.0] - 2026-03-10
+### Added
+- New variation of the 'Midnight Purple Deep' theme created.
+
+---
+
+## [1.0.3] - 2026-02-16
+### Added
+- Added colors and icon to the marketplace.
+
+---
+
 ## [1.0.2] - 2026-02-15
 ### Added
 - New customizations for text selection, indentation and other enhancements.
