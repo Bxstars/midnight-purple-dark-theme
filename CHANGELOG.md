@@ -7,7 +7,14 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [1.1.1] - 2026-03-10
+## [1.1.2] - 2026-03-10
+### Fixed
+- Added more tokenColors rules for 'Midnight Purple Deep'.
+
+---
+
+## [1.1.1] - 2026-03-
+### Changed
 - updated changelog.
 
 ---
@@ -15,6 +22,9 @@ and this project follows [Semantic Versioning](https://semver.org/).
 ## [1.1.0] - 2026-03-10
 ### Added
 - New variation of the 'Midnight Purple Deep' theme created.
+
+### Changed
+- Changed the name of 'Midnight Purple Dark Theme' to 'Midnight Purple Dark'.
 
 ---
 
