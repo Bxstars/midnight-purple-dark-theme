@@ -9,6 +9,16 @@ A deep and elegant purple dark theme for Visual Studio Code, designed for long c
 - Ideal for night coding
 - Inspired by the Dracula theme, with a deep midnight purple twist
 
+## Themes
+
+This extension includes multiple Midnight Purple variations:
+
+- **Midnight Purple Dark**
+  - The original deep purple dark theme.
+
+- **Midnight Purple Deep**
+  - A darker and richer variation with deeper purple tones.
+
 ## Preview
 ![Preview](./assets/preview.png)
 
@@ -21,7 +31,7 @@ A deep and elegant purple dark theme for Visual Studio Code, designed for long c
 ## Activation
 - Open Command Palette (`Ctrl + Shift + P`)
 - Select **Preferences: Color Theme**
-- Choose **Midnight Purple Dark Theme**
+- Choose **Midnight Purple Dark or Midnight Purple Deep**
 
 ## Publisher
 -  Created by **[@bxstars](https://github.com/Bxstars)** 💜 
