@@ -7,15 +7,21 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.3] - 2026-03-11
+### Changed
+- Updated preview with image themes.
+
+---
+
 ## [1.1.2] - 2026-03-10
 ### Fixed
 - Added more tokenColors rules for 'Midnight Purple Deep'.
 
 ---
 
-## [1.1.1] - 2026-03-
+## [1.1.1] - 2026-03-10
 ### Changed
-- updated changelog.
+- Updated changelog.
 
 ---
 
