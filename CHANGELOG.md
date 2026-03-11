@@ -7,6 +7,11 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.1] - 2026-03-10
+- updated changelog.
+
+---
+
 ## [1.1.0] - 2026-03-10
 ### Added
 - New variation of the 'Midnight Purple Deep' theme created.
