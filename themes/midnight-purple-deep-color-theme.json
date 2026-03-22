@@ -3,7 +3,7 @@
     "type": "dark",
 	"colors": {
         // Navbar superior
-		"titleBar.activeBackground": "#1F2547",
+		"titleBar.activeBackground": "#2B3461",
 		"titleBar.activeForeground": "#C7d2FE",
 		"titleBar.inactiveBackground": "#141523",
 		"titleBar.inactiveForeground": "#8b9CF7",
@@ -12,11 +12,11 @@
         "focusBorder": "#5D5A8D",
 
 		// Tabs
-		"editorGroupHeader.tabsBackground": "#2B3461",
+		"editorGroupHeader.tabsBackground": "#1F2547",
 		"tab.activeBackground": "#3A3F7A",
         "tab.activeForeground": "#FFFFFF",      
         "tab.inactiveBackground": "#141523",
-        "tab.inactiveForeground": "#A5b4FC",
+        "tab.inactiveForeground": "#7d86b1",
 
 		// Navbar Superior - Menu seleção
         "list.activeSelectionBackground": "#3A3F7A",
@@ -37,9 +37,9 @@
 		"activityBarBadge.foreground": "#FFFFFF",
 		
         // Barra de baixo 
-        "statusBar.background": "#574CA3",
+        "statusBar.background": "#2B2651",
         "statusBar.foreground": "#FFFFFF",
-        "statusBar.border": "#2E1065",
+        "statusBar.border": "#574CA3",
 
 		// Titulo da janela lateral selecionada
 		"sideBarTitle.foreground": "#B0ADFB",
@@ -728,7 +728,6 @@
                 "source.groovy storage.type.def"
             ],
             "settings": {
-                "fontStyle": "regular",
                 "foreground": "#CA5DAD"
             }
         },
@@ -874,7 +873,7 @@
                 "punctuation.support.type.property-name.end"
             ],
             "settings": {
-                "foreground": "#8BE9FE"
+                "foreground": "#8ba0fe"
             }
         },
         {
@@ -922,7 +921,6 @@
                 "meta.variable.assignment.destructured.object.coffee variable variable"
             ],
             "settings": {
-                "fontStyle": "normal",
                 "foreground": "#E6E7F2"
             }
         },
@@ -1105,7 +1103,7 @@
                 "punctuation.definition.string.end.json"
             ],
             "settings": {
-                "foreground": "#378d70"
+                "foreground": "#20BB94"
             }
         }
     ]
