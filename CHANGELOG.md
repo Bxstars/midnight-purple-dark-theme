@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.1.4] - 2026-03-22
+### Changed [Midnight Purple Deep]
+- The colors in the tabs of open files, and the top and bottom bars have been changed.
+
+---
+
 ## [1.1.3] - 2026-03-11
 ### Changed
 - Updated preview with image themes.
