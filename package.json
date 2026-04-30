@@ -25,7 +25,8 @@
     "violet",
     "color-theme",
     "theme",
-    "purple dark"
+    "purple dark",
+    "neon"
   ],
   "repository": {
     "type": "git",
@@ -42,6 +43,11 @@
         "label": "Midnight Purple Deep",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-purple-deep-color-theme.json"
+      },
+      {
+        "label": "Midnight Purple Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-purple-neon-color-theme.json"
       }
     ]
   }
