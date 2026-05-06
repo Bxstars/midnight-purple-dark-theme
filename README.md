@@ -53,6 +53,7 @@ This extension includes multiple Midnight Purple variations:
 - Choose
    - **Midnight Purple Dark**
    - **Midnight Purple Deep**
+   - **Midnight Purple Neon**
 
 ## Publisher
 -  Created by **[@bxstars](https://github.com/Bxstars)** 💜 
