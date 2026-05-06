@@ -21,6 +21,10 @@ This extension includes multiple Midnight Purple variations:
 - **Midnight Purple Deep**
   - A darker and richer variation with deeper purple tones.
 
+![NEW](https://img.shields.io/badge/NEW-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- **Midnight Purple Neon**
+  - A vibrant and glowing variation with bright neon purple tones, designed to stand out with high contrast and a futuristic aesthetic.
+
 ## Preview
 
 - Midnight Purple - Dark
@@ -30,6 +34,12 @@ This extension includes multiple Midnight Purple variations:
 - Midnight Purple - Deep
 
 ![Preview](./assets/midnight_purple_deep.png)
+
+![NEW](https://img.shields.io/badge/NEW-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Midnight Purple - Neon
+  
+![Preview](./assets/midnight_purple_neon.png)
+
 
 ## Installation
 1. Open VS Code
