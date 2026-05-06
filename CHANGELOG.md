@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.2.0] - 2026-05-05
+### Added
+- New variation of the 'Midnight Purple Neon' theme created.
+
+---
+
 ## [1.1.4] - 2026-03-22
 ### Changed [Midnight Purple Deep]
 - The colors in the tabs of open files, and the top and bottom bars have been changed.
