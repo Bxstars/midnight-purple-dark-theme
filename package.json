@@ -16,17 +16,15 @@
     "Themes"
   ],
   "keywords": [
-    "purple",
-    "dark",
-    "midnight",
+    "color-theme",
     "dark theme",
-    "vscode theme",
+    "midnight",
+    "neon",
+    "purple",
+    "purple dark",
     "purple theme",
     "violet",
-    "color-theme",
-    "theme",
-    "purple dark",
-    "neon"
+    "vscode theme"
   ],
   "repository": {
     "type": "git",
@@ -37,7 +35,7 @@
       {
         "label": "Midnight Purple Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Midnight Purple Dark Theme-color-theme.json"
+        "path": "./themes/midnight-purple-dark-color-theme.json"
       },
       {
         "label": "Midnight Purple Deep",
