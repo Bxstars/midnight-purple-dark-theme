@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.2.2] - 2026-05-07
+### Changed
+- Updated images for the new 'midnight purple neon' theme.
+
+---
+
 ## [1.2.1] - 2026-05-06
 ### Changed
 - Update to the themes section in the README.md.
