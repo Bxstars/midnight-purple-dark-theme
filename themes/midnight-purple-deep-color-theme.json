@@ -9,7 +9,7 @@
 		"titleBar.inactiveForeground": "#8b9CF7",
 
         "breadcrumb.foreground": "#7A83B6",
-        "focusBorder": "#5D5A8D",
+        "focusBorder": "#8883d4",
 
 		// Tabs
 		"editorGroupHeader.tabsBackground": "#1F2547",
@@ -47,7 +47,7 @@
 		// Fundo do Painel da janela lateral selecionada
         "sideBar.background": "#111120",
         "sideBar.border": "#5E51AF",
-        "sideBar.foreground": "#E6E7F2",
+        "sideBar.foreground": "#c6bae9e3",
 
 		// Botão Commit
 		"button.background": "#7C82F3",
@@ -113,6 +113,13 @@
         "scrollbarSlider.background": "#343B6E66",
         "scrollbarSlider.hoverBackground": "#7C82F388",
         "scrollbarSlider.activeBackground": "#A5B4FCAA",
+
+        "editorWidget.background": "#1b1630",
+        "editorWidget.border": "#8F6DFF",
+
+        "input.background": "#1b1630",
+        "input.foreground": "#8d8fef",
+        "input.border": "#5E51AF",
 	},
 	
 	 "tokenColors": [
@@ -596,7 +603,6 @@
                 "variable.other.predefined"
             ],
             "settings": {
-                "fontStyle": "regular",
                 "foreground": "#B07AE6"
             }
         },
@@ -989,7 +995,6 @@
                 "support.constant"
             ],
             "settings": {
-                "fontStyle": "normal",
                 "foreground": "#B07AE6"
             }
         },

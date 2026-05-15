@@ -25,7 +25,7 @@
     "list.hoverBackground": "#1F1A2E",
 
     "list.inactiveSelectionBackground": "#291f3b",
-    "list.focusOutline":"#7461b3",
+    "list.focusOutline": "#7461b3",
     "tree.indentGuidesStroke": "#60bda1",
 
     // Editing
@@ -40,7 +40,7 @@
 
     // Notification Counter
     "activityBarBadge.background": "#827aeb",
-    "activityBarBadge.foreground": "#0F0C15",
+    "activityBarBadge.foreground": "#0f0c15",
 
     // Bottom Bar
     "statusBar.background": "#1A1426",
@@ -49,9 +49,9 @@
 
     "statusBarItem.prominentBackground": "#5b4e97",
     "statusBarItem.prominentForeground": "#dbdbdb",
-    "statusBarItem.hoverBackground": "#60bda15d",
+    "statusBarItem.hoverBackground": "#60bda141",
 
-    "statusBar.debuggingBackground": "#E8A763",
+    "statusBar.debuggingBackground": "#ad5a00",
     "statusBar.noFolderBackground": "#2A223D",
 
     "statusBarItem.errorBackground": "#E05A6F",
@@ -63,7 +63,7 @@
     // Background of the selected side window panel
     "sideBar.background": "#0F0C15",
     "sideBar.foreground": "#c2c9c6",
-    "sideBarTitle.border":"#60bda1",
+    "sideBarTitle.border": "#60bda1",
     "sideBar.border": "#1F1A2E",
 
     // Commit Button
@@ -109,7 +109,7 @@
     "textLink.foreground": "#60bda1",
     "textLink.activeForeground": "#9BE3CC",
     "badge.background": "#8E6BD8",
-    "badge.foreground": "#110f0f",
+    "badge.foreground": "#dddddd",
 
     // Text Selection
     "editor.lineHighlightBackground": "#1A1426",
@@ -134,7 +134,14 @@
 
     "extensionIcon.verifiedForeground": "#8E6BD8",
     "extensionButton.background": "#8E6BD8",
-    "extensionButton.foreground":"#f5f5f5",
+    "extensionButton.foreground": "#f5f5f5",
+
+    "editorWidget.background": "#1b1630",
+    "editorWidget.border": "#60bda1e8",
+
+    "input.background": "#1b1630",
+    "input.foreground": "#E8A763",
+    "input.border": "#60bda1AA"
   },
 
   "tokenColors": [
