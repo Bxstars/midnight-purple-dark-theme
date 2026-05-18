@@ -7,6 +7,12 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.2.3] - 2026-05-15
+### Fixed
+- The chat has been adjusted with colors for each theme.
+
+---
+
 ## [1.2.2] - 2026-05-07
 ### Changed
 - Updated images for the new 'midnight purple neon' theme.
