@@ -2,7 +2,7 @@
 	"name": "Midnight Purple Deep",
     "type": "dark",
 	"colors": {
-        // Navbar superior
+        // Top Navbar
 		"titleBar.activeBackground": "#2B3461",
 		"titleBar.activeForeground": "#C7d2FE",
 		"titleBar.inactiveBackground": "#141523",
@@ -18,38 +18,38 @@
         "tab.inactiveBackground": "#141523",
         "tab.inactiveForeground": "#7d86b1",
 
-		// Navbar Superior - Menu seleção
+		// Top Navbar - Selection Menu
         "list.activeSelectionBackground": "#3A3F7A",
         "list.activeSelectionForeground": "#FFFFFF",
         "list.hoverBackground": "#2B3461",
 
-		// Edição
+		// Editor
 		"editor.background": "#141523",
 		"editor.foreground": "#E6E7F2",
 		
-		// Navbar Lateral 
+		// Side Navbar 
 		"activityBar.background": "#141524",
         "activityBar.foreground": "#A5B4FC",
   		"activityBar.activeBorder": "#6366f1",
 
-		// Contador de notificações
+		// Notification Counter
 		"activityBarBadge.background": "#5E51AF",
 		"activityBarBadge.foreground": "#FFFFFF",
 		
-        // Barra de baixo 
+        // Bottom Bar
         "statusBar.background": "#2B2651",
         "statusBar.foreground": "#FFFFFF",
         "statusBar.border": "#574CA3",
 
-		// Titulo da janela lateral selecionada
+		// Title of the selected side window
 		"sideBarTitle.foreground": "#B0ADFB",
 
-		// Fundo do Painel da janela lateral selecionada
+		// Background of the selected side window panel
         "sideBar.background": "#111120",
         "sideBar.border": "#5E51AF",
-        "sideBar.foreground": "#c6bae9e3",
+        "sideBar.foreground": "#fcfcfce3",
 
-		// Botão Commit
+		// Commit Button
 		"button.background": "#7C82F3",
         "button.foreground": "#FFFFFF",
         "button.hoverBackground": "#8B9CF7",
@@ -83,9 +83,10 @@
         "menu.foreground": "#E6E7F2",
         "menu.separatorBackground": "#272A49",
 
+        // Progress 
         "progressBar.background": "#7C82F3",
 
-        // Pagina de boas vindas
+        // Welcome Page
         "welcomePage.tileBackground": "#2B305E",
         "welcomePage.tileHoverBackground": "#343B6E",
         "textLink.foreground": "#A5B4FC",
@@ -93,7 +94,7 @@
         "badge.background": "#7C82F3",
         "badge.foreground": "#FFFFFF",
 
-        // Seleção de texto
+        // Text Selection
         "editor.lineHighlightBackground": "#262A52",
         "editor.lineHighlightBorder": "#4B4FA3",
 
@@ -101,11 +102,11 @@
         "editor.selectionHighlightBackground": "#7F47D933",
         "editorCursor.foreground": "#A5B4FC",
 
-        // Números de linhas
+        // Line Numbers
         "editorLineNumber.foreground": "#5C64A8",
         "editorLineNumber.activeForeground": "#E6E7F2",
 
-        // Guias de indentação
+        // Indentation Guides
         "editorIndentGuide.background1": "#2A2F5A88",
         "editorIndentGuide.activeBackground1": "#7C82F3",
 
