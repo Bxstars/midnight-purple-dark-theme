@@ -44,8 +44,18 @@ This extension includes multiple Midnight Purple variations:
 ## Installation
 1. Open VS Code
 2. Go to Extensions
-3. Search for **Midnight Purple Dark** or **bxstars-code**
+3. Search for **Midnight Purple Dark** or **bxstars-code** 
 4. Install and enjoy 🚀
+
+If you prefer, you can install it via a VSIX file.
+
+Link to the file with the versions **https://github.com/bxstars/midnight-purple-dark-theme/tree/master/vsix**
+
+1. Download the file with the latest version of Midnight Purple Dark.
+2. In the extensions tab, in the upper corner, click the 3-dot icon.
+3. Select the "Install from VSIX" option.
+4. Locate the file on your computer.
+5. Install and enjoy 🚀
 
 ## Activation
 - Open Command Palette (`Ctrl + Shift + P`)
