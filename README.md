@@ -44,7 +44,7 @@ This extension includes multiple Midnight Purple variations:
 ## Installation
 1. Open VS Code
 2. Go to Extensions
-3. Search for **Midnight Purple Dark** or **bxstars-code**
+3. Search for **Midnight Purple Dark** or **bxstars-code** 
 4. Install and enjoy 🚀
 
 If you prefer, you can install it via a VSIX file.
