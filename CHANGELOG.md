@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
+## [2.0.0] - 2026-07-18
+### Changed [Midnight Purple Deep]
+- Update the colors
+
+---
 ## [1.2.6] - 2026-07-18
 ### Chore
 - Update files vsix.
