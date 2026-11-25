@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/)
 and this project follows [Semantic Versioning](https://semver.org/).
 
 ---
+## [1.2.6] - 2026-07-18
+### Chore
+- Update files vsix.
+
+---
+## [1.2.5] - 2026-07-18
+### Chore
+- Folder containing the VSIX files has been created.
+
 
 ## [1.2.4] - 2026-05-18
 ### Fixed
